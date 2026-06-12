@@ -1,0 +1,16 @@
+complaint_id,category,priority,reason,flag
+PM-202401,Pothole,Standard,Categorised as Pothole from 'pothole' in the description.,
+PM-202402,Pothole,Urgent,"Categorised as Pothole from 'pothole' in the description; marked Urgent because the severity term(s) 'School', 'children' appear.",
+PM-202406,Flooding,Standard,"Categorised as Flooding from 'flood', 'knee-deep', 'stranded' in the description.",
+PM-202408,Flooding,Standard,"Categorised as Flooding from 'flood', 'drain' in the description; flagged NEEDS_REVIEW because multiple categories match.",NEEDS_REVIEW
+PM-202410,Streetlight,Standard,"Categorised as Streetlight from 'streetlight', 'lights out', 'dark at night', 'very dark' in the description.",
+PM-202411,Streetlight,Urgent,"Categorised as Streetlight from 'streetlight', 'flickering' in the description; marked Urgent because the severity term(s) 'hazard' appear.",
+PM-202413,Waste,Standard,"Categorised as Waste from 'garbage', 'bins' in the description.",
+PM-202418,Noise,Standard,"Categorised as Noise from 'music', 'past midnight' in the description.",
+PM-202419,Road Damage,Standard,"Categorised as Road Damage from 'road surface', 'cracked', 'sinking' in the description.",
+PM-202420,Drain Blockage,Urgent,Categorised as Drain Blockage from 'manhole' in the description; marked Urgent because the severity term(s) 'injury' appear.,
+PM-202427,Flooding,Standard,Categorised as Flooding from 'flood' in the description.,
+PM-202428,Waste,Standard,"Categorised as Waste from 'dead animal', 'not removed' in the description.",
+PM-202430,Streetlight,Standard,"Categorised as Streetlight from 'lights out', 'heritage' in the description; flagged NEEDS_REVIEW because multiple categories match.",NEEDS_REVIEW
+PM-202433,Waste,Standard,"Categorised as Waste from 'waste', 'dumped' in the description.",
+PM-202446,Road Damage,Urgent,"Categorised as Road Damage from 'footpath', 'tiles broken' in the description; marked Urgent because the severity term(s) 'fell' appear.",

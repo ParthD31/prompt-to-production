@@ -1,0 +1,16 @@
+complaint_id,category,priority,reason,flag
+GH-202401,Flooding,Urgent,Categorised as Flooding from 'flood' in the description; marked Urgent because the severity term(s) 'Ambulance' appear.,
+GH-202402,Flooding,Standard,"Categorised as Flooding from 'flood', 'drain' in the description; flagged NEEDS_REVIEW because multiple categories match.",NEEDS_REVIEW
+GH-202406,Drain Blockage,Standard,Categorised as Drain Blockage from 'drain' in the description.,
+GH-202407,Drain Blockage,Standard,Categorised as Drain Blockage from 'drain' in the description.,
+GH-202410,Pothole,Standard,Categorised as Pothole from 'pothole' in the description.,
+GH-202411,Pothole,Urgent,Categorised as Pothole from 'pothole' in the description; marked Urgent because the severity term(s) 'hospitalised' appear.,
+GH-202412,Pothole,Urgent,Categorised as Pothole from 'pothole' in the description; marked Urgent because the severity term(s) 'School' appear.,
+GH-202417,Waste,Standard,"Categorised as Waste from 'garbage', 'waste' in the description.",
+GH-202420,Noise,Standard,Categorised as Noise from 'drilling' in the description.,
+GH-202422,Road Damage,Urgent,"Categorised as Road Damage from 'crater', 'road collapsed' in the description; marked Urgent because the severity term(s) 'collapsed' appear.",
+GH-202424,Flooding,Standard,Categorised as Flooding from 'flood' in the description.,
+GH-202428,Waste,Standard,"Categorised as Waste from 'waste', 'not cleared' in the description.",
+GH-202432,Other,Standard,"No category keyword matched, so labelled Other; flagged NEEDS_REVIEW because the category is unclear.",NEEDS_REVIEW
+GH-202448,Flooding,Standard,"Categorised as Flooding from 'flood', 'drain' in the description; flagged NEEDS_REVIEW because multiple categories match.",NEEDS_REVIEW
+GH-202438,Flooding,Standard,Categorised as Flooding from 'rainwater' in the description.,

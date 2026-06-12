@@ -1,0 +1,16 @@
+complaint_id,category,priority,reason,flag
+KM-202401,Streetlight,Standard,"Categorised as Streetlight from 'lamp post', 'heritage' in the description; flagged NEEDS_REVIEW because multiple categories match.",NEEDS_REVIEW
+KM-202402,Heritage Damage,Standard,Categorised as Heritage Damage from 'historic' in the description.,
+KM-202405,Noise,Standard,"Categorised as Noise from 'band playing', 'museum' in the description; flagged NEEDS_REVIEW because multiple categories match.",NEEDS_REVIEW
+KM-202409,Pothole,Standard,Categorised as Pothole from 'pothole' in the description.,
+KM-202410,Pothole,Standard,Categorised as Pothole from 'pothole' in the description.,
+KM-202411,Pothole,Standard,"Categorised as Pothole from 'pothole', 'rainwater' in the description; flagged NEEDS_REVIEW because multiple categories match.",NEEDS_REVIEW
+KM-202415,Drain Blockage,Standard,Categorised as Drain Blockage from 'drain' in the description.,
+KM-202418,Waste,Standard,Categorised as Waste from 'waste' in the description.,
+KM-202421,Road Damage,Urgent,"Categorised as Road Damage from 'sinking', 'footpath' in the description; marked Urgent because the severity term(s) 'fell', 'Hospital' appear.",
+KM-202422,Road Damage,Standard,Categorised as Road Damage from 'road surface' in the description.,
+KM-202426,Heritage Damage,Standard,Categorised as Heritage Damage from 'heritage' in the description.,
+KM-202430,Road Damage,Standard,Categorised as Road Damage from 'subsid' in the description.,
+KM-202434,Road Damage,Standard,"Categorised as Road Damage from 'paving', 'heritage' in the description; flagged NEEDS_REVIEW because multiple categories match.",NEEDS_REVIEW
+KM-202436,Streetlight,Standard,Categorised as Streetlight from 'darkness' in the description.,
+KM-202438,Heritage Damage,Standard,Categorised as Heritage Damage from 'heritage' in the description.,

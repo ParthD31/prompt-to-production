@@ -1,0 +1,16 @@
+complaint_id,category,priority,reason,flag
+AM-202401,Heat Hazard,Standard,Categorised as Heat Hazard from 'melting' in the description.,
+AM-202402,Heat Hazard,Standard,Categorised as Heat Hazard from 'temperature' in the description.,
+AM-202405,Other,Standard,"No category keyword matched, so labelled Other; flagged NEEDS_REVIEW because the category is unclear.",NEEDS_REVIEW
+AM-202406,Heat Hazard,Standard,Categorised as Heat Hazard from 'heatwave' in the description.,
+AM-202407,Road Damage,Urgent,"Categorised as Road Damage from 'paving' in the description; marked Urgent because the severity term(s) 'Child', 'injured' appear.",
+AM-202410,Pothole,Standard,Categorised as Pothole from 'pothole' in the description.,
+AM-202414,Streetlight,Standard,Categorised as Streetlight from 'unlit' in the description.,
+AM-202417,Waste,Standard,"Categorised as Waste from 'waste', 'not cleared' in the description.",
+AM-202421,Noise,Standard,Categorised as Noise from 'music' in the description.,
+AM-202424,Road Damage,Standard,Categorised as Road Damage from 'road surface' in the description.,
+AM-202429,Heat Hazard,Standard,Categorised as Heat Hazard from 'temperature' in the description.,
+AM-202431,Heritage Damage,Standard,"Categorised as Heritage Damage from 'heritage', 'old city' in the description.",
+AM-202435,Heat Hazard,Standard,Categorised as Heat Hazard from 'heat' in the description.,
+AM-202444,Waste,Standard,"Categorised as Waste from 'waste', 'bins' in the description.",
+AM-202445,Heat Hazard,Standard,Categorised as Heat Hazard from 'full sun' in the description.,
